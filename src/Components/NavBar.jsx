@@ -61,7 +61,7 @@ export const NavBar = () => (
           <H1>MrDonald's</H1>
         </Logo>
         <Login>
-          <LoginImg src={loginImg} alt="logo"/>
+          <LoginImg src={loginImg} alt="login"/>
           <LoginText>войти</LoginText>
         </Login>
       </NavBarStyled>
